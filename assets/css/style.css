@@ -104,6 +104,14 @@ h2.title {
   max-width: 280px;
 }
 
+.text-prim {
+  color: #4a9748;
+}
+
+.text-prim:hover {
+  color: #9ecc23;
+}
+
 @media (max-width: 480px) {
   h1.title {
     font-size: 33px;
